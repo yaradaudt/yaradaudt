@@ -5,7 +5,7 @@ Hi there! 👋 I'm Yara Daudt, a curious and creative mind passionate about tech
 🌱 Currently Learning:
 
 French 🇫🇷  
-Artificial Intelligence & Data Science ✨
+Artificial Intelligence & Data Science ✨  
 Advanced programming concepts and techniques 💻  
 How to keep my cats from waking me up at 3 AM 🐾😴   
 
